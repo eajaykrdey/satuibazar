@@ -1,0 +1,6 @@
+{
+  "name": "Satuibazar — Curated Everyday & Artisanal Storefront",
+  "description": "Responsive full-stack e-commerce storefront inspired by Satuibazar featuring live search auto-suggestions, multi-criteria product filtering, quick view modals, sliding cart drawer, and validated multi-step checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
